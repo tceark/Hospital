@@ -9,7 +9,7 @@
       ******************************************************************
       *REMARKS.
       *
-      *          THIS PROGRAM EDITS A DAILY TREATMENT TRANSACTION FILE
+      *          THIS PROGRAM EDITS A DAILY TREATMENT TRANSACTION FILE *
       *          PRODUCED BY DATA ENTRY OPERATORS FROM CICS SCREENS
       *
       *          IT CONTAINS EVERY TREATMENT FOR EVERY PATIENT IN THE
